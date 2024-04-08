@@ -1,7 +1,7 @@
 name: np_tutorial_pv3
 
 dependencies:
-  - python=3.7
+  - python=3.12.2
   - jupyter
   - matplotlib
   - ipywidgets
